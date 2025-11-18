@@ -3,13 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/TreinamentoCombateIncendio_Quest2/[Ll]ibrary/
+/TreinamentoCombateIncendio_Quest2/[Tt]emp/
+/TreinamentoCombateIncendio_Quest2/[Oo]bj/
+/TreinamentoCombateIncendio_Quest2/[Bb]uild/
+/TreinamentoCombateIncendio_Quest2/[Bb]uilds/
+/TreinamentoCombateIncendio_Quest2/[Ll]ogs/
+/TreinamentoCombateIncendio_Quest2/[Uu]ser[Ss]ettings/
 *.log
 
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
@@ -18,10 +18,10 @@
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
-/[Mm]emoryCaptures/
+/TreinamentoCombateIncendio_Quest2/[Mm]emoryCaptures/
 
 # Recordings can get excessive in size
-/[Rr]ecordings/
+/TreinamentoCombateIncendio_Quest2/[Rr]ecordings/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -80,20 +80,20 @@ crashlytics-build.properties
 InitTestScene*.unity*
 
 # Addressables default ignores, before user customizations
-/ServerData
-/[Aa]ssets/StreamingAssets/aa*
-/[Aa]ssets/AddressableAssetsData/link.xml*
-/[Aa]ssets/Addressables_Temp*
+/TreinamentoCombateIncendio_Quest2/ServerData
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/StreamingAssets/aa*
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/AddressableAssetsData/link.xml*
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/Addressables_Temp*
 # By default, Addressables content builds will generate addressables_content_state.bin
 # files in platform-specific subfolders, for example:
 # /Assets/AddressableAssetsData/OSX/addressables_content_state.bin
-/[Aa]ssets/AddressableAssetsData/*/*.bin*
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/AddressableAssetsData/*/*.bin*
 
 # Visual Scripting auto-generated files
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
-/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 # Auto-generated scenes by play mode tests
-/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/TreinamentoCombateIncendio_Quest2/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
